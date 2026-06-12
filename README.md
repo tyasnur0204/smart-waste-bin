@@ -36,3 +36,9 @@ An automated, smart waste management prototype powered by the **Arduino Uno** ar
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/tyasnur0204/smart-waste-bin
+
+
+## 📸 Project Documentation
+
+### Hardware Prototype
+![Automated Waste Bin Prototype](image.png)
